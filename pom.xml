@@ -447,6 +447,7 @@
 
     <modules>
         <module>components/org.wso2.carbon.identity.api.dispatcher</module>
+        <module>components/org.wso2.carbon.identity.api.dispatcher2</module>
         <module>features/org.wso2.carbon.identity.api.dispatcher.feature</module>
     </modules>
 
